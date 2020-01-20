@@ -23,6 +23,9 @@ This repository contains the development version of openCEM. You can download an
 To run openCEM, you need to install [Python 3](https://www.python.org/download/releases/3.0/) and additional dependencies.
 See the [Install](https://github.com/openCEMorg/openCEM/wiki/Install) page for more information.
 
+## Running Remotely
+If running remotely on linux boxes, use the remote_preconfigure script before running tests or sims. 
+
 ## Documentation
 
 The [Wiki](https://github.com/openCEMorg/openCEM/wiki) for this repository is the main and most up to date source of information for openCEM.
